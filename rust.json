@@ -1,0 +1,6 @@
+{
+  "project":"rust",
+  "last-check-date":"2026-09-01",
+  "policy-URL":"https://forge.rust-lang.org/policies/llm-usage.html",
+  "AI-policy":["Accepted", "Experimental", "Disclose-mandatory"]
+}
